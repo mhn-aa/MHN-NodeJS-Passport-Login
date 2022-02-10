@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 const users = [
   {
     username: "Mahan",
-    password: "Gooz546",
+    password: "123456",
   },
 ];
 
